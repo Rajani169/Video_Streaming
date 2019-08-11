@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Video_Streaming/static/js/main.5dc11305.chunk.js",
+    "main.js.map": "/Video_Streaming/static/js/main.5dc11305.chunk.js.map",
+    "runtime~main.js": "/Video_Streaming/static/js/runtime~main.337328a3.js",
+    "runtime~main.js.map": "/Video_Streaming/static/js/runtime~main.337328a3.js.map",
+    "static/js/2.f2f6c8a0.chunk.js": "/Video_Streaming/static/js/2.f2f6c8a0.chunk.js",
+    "static/js/2.f2f6c8a0.chunk.js.map": "/Video_Streaming/static/js/2.f2f6c8a0.chunk.js.map",
+    "index.html": "/Video_Streaming/index.html",
+    "precache-manifest.78c5f9822c742ff30495563966997af2.js": "/Video_Streaming/precache-manifest.78c5f9822c742ff30495563966997af2.js",
+    "service-worker.js": "/Video_Streaming/service-worker.js"
+  }
+}
