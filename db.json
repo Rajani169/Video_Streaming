@@ -19,6 +19,12 @@
       "title": "This is second stream",
       "description": "How about this",
       "id": 4
+    },
+    {
+      "title": "Awesome Stream",
+      "description": "Again a nice stream",
+      "userId": "117238327070500316412",
+      "id": 5
     }
   ]
 }
